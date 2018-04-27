@@ -20,7 +20,8 @@ def return_a_value
 end
 
 def last_evaluated_value
-
+  3 + 3
+  2 + 2
 end
 
 def pizza_party(toppings = 'cheese')
